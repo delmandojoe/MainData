@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a607e95-13a6-4eba-8f10-e85a67e77689" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databuiz/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Databuiz/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databuiz/buizdata.py" beforeDir="false" afterPath="$PROJECT_DIR$/Databuiz/buizdata.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +18,12 @@
   <component name="ProjectId" id="1TlkDQps231NM7umdtARgum1b0X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/fboss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Databuiz" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Databuiz" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,5 +49,18 @@
       <updated>1574041949345</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
